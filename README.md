@@ -6,7 +6,7 @@
 ---
 * Generate Youtube API key
 * Find the channel identification key (starts with UC)
-* Access titles and other variable from the upload's playlist key (starts with UU)
+* Access titles and other variables from the upload's playlist key (starts with UU)
 * Create data frame of titles, times, and any other information
 * Clean titles 
 * Dictionary 
